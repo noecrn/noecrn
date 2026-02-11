@@ -65,13 +65,5 @@
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
-
-<div align="center">
-  <a href="https://github.com/noecrn">
-    <img src="https://github-readme-stats.vercel.app/api?username=noecrn&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  </a>
-  <a href="https://github.com/noecrn">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noecrn&layout=compact&theme=dark&hide_border=true" height="180" alt="languages graph" />
-  </a>
-</div>
+### ⏳ Coding Time
+[![wakatime](https://wakatime.com/badge/user/37a8a39b-61a8-424d-8d1e-9e7b1a19b891.svg)](https://wakatime.com/@37a8a39b-61a8-424d-8d1e-9e7b1a19b891)
