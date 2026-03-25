@@ -44,26 +44,5 @@
 
 ---
 
-### 🏆 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| **[IoT Biometric Tracker](https://github.com/noecrn/IoT-Biometric-Sleep-Tracker)** | `C++` `Swift` `PCB` | Full-stack wearable: Custom PCB, ESP32 firmware, and iOS app with on-device ML inference. |
-| **[C-OCR Engine](https://github.com/noecrn/C-Optical-Character-Recognition)** | `C` `Algorithms` `CNN` | High-performance Optical Character Recognition engine built **from scratch** (no external AI libs). |
-| **[NLP Pipeline](https://github.com/noecrn/NLP-Sentiment-Analysis-Pipeline)** | `Python` `Scikit-learn` | Modular sentiment analysis pipeline using Ensemble Voting (RF + SVM + LR). |
-
----
-
-### 🚀 Academic System Programming (EPITA ING1)
-*Intensive C/Unix projects developed during the engineering cycle (Source code private).*
-
-| Project | Description | Key Skills |
-| :--- | :--- | :--- |
-| **42sh** | POSIX-compliant Shell implementation from scratch. | `Process Management` `Parsing` `AST` |
-| **Malloc** | Re-implementation of the standard C memory allocator. | `Memory Management` `Algorithms` `Thread Safety` |
-| **HTTPd** | High-performance HTTP/1.1 Web Server. | `Networking` `Concurrency` `Sockets` |
-
----
-
 ### ⏳ Coding Time
 [![wakatime](https://wakatime.com/badge/user/37a8a39b-61a8-424d-8d1e-9e7b1a19b891.svg)](https://wakatime.com/@37a8a39b-61a8-424d-8d1e-9e7b1a19b891)
