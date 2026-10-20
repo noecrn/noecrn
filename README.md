@@ -19,17 +19,6 @@ I built and flew FPV drones: soldering, and tuning the PID settings of the firmw
 
 ---
 
-### Projects
-
-| Project | What it is |
-|---|---|
-| [IoT-Biometric-Sleep-Tracker](https://github.com/noecrn/IoT-Biometric-Sleep-Tracker) | Custom PCB, ESP32 firmware, BLE, iOS app and ML-based sleep analysis |
-| [C-Optical-Character-Recognition](https://github.com/noecrn/C-Optical-Character-Recognition) | OCR engine written in C with a neural network, solves word puzzles from images |
-| [mcp-agent-framework](https://github.com/noecrn/mcp-agent-framework) | Multi-agent AI with the AWS Strands SDK and Model Context Protocol |
-| [NLP-Sentiment-Analysis-Pipeline](https://github.com/noecrn/NLP-Sentiment-Analysis-Pipeline) | Sentiment classification with an ensemble of Logistic Regression, Random Forest and SVM |
-
----
-
 ### Technical stack
 
 **Languages**
