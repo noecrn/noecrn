@@ -1,48 +1,57 @@
-# Hi there, I'm Noé Cornu! 👋
+# Hi, I'm Noé Cornu 👋
 
-**Engineering Student (ING1) @ [EPITA](https://www.epita.fr/)** | **Embedded Systems & Data Science**
-
-> 🚀 **My Goal:** Bridging the gap between hardware constraints and data intelligence. I build end-to-end systems—from designing the PCB and writing the firmware to training the algorithms that make sense of the data.
+**Engineering student at [EPITA](https://www.epita.fr/), embedded systems track (GISTRE)** | **Software & performance analysis at KND Marine**
 
 ---
 
-### 👨‍💻 About Me
+### What I'm doing now
 
-* 🎓 **Current:** 3rd Year Engineering Student (**ING1**) in Computer Science at **EPITA** (Strasbourg).
-* 🌏 **Global View:** Recently completed an academic exchange at **ITS Indonesia**, focusing on Data Science application in diverse environments.
-* 🔭 **Focus:** I am looking for an **Internship** (starting **September 2026**) in **Embedded Software** or **Data Engineering** (Marine/Defense sectors).
-* ⚡ **Core Competency:** I don't just write code; I understand the physical system behind it.
+* 🎓 **EPITA:** engineering cycle in computer science, majoring in embedded systems (GISTRE).
+* ⛵ **KND Marine:** internship in the performance team. I process navigation data from racing and offshore boats (TP52, IMOCA, Class40, Ocean Fifty) and build the Python tools used to analyse it. I use AI tools (Claude Code, MCP) to prototype fast.
+* 🌏 **Abroad:** exchange semester at ITS Surabaya (Indonesia, 2025), focused on data science and network security.
+* 🔭 **Next:** I'm looking for an **end-of-studies internship starting February 2028**, in embedded systems or real-time data, in aerospace and defense or in a racing team.
 
 ---
 
-### 🛠️ Technical Stack
+### Where embedded started for me
+
+I built and flew FPV drones: soldering, and tuning the PID settings of the firmware. At EPITA I went further down the stack with C, x86-64 assembly, C++ and networking.
+
+---
+
+### Projects
+
+| Project | What it is |
+|---|---|
+| [IoT-Biometric-Sleep-Tracker](https://github.com/noecrn/IoT-Biometric-Sleep-Tracker) | Custom PCB, ESP32 firmware, BLE, iOS app and ML-based sleep analysis |
+| [C-Optical-Character-Recognition](https://github.com/noecrn/C-Optical-Character-Recognition) | OCR engine written in C with a neural network, solves word puzzles from images |
+| [mcp-agent-framework](https://github.com/noecrn/mcp-agent-framework) | Multi-agent AI with the AWS Strands SDK and Model Context Protocol |
+| [NLP-Sentiment-Analysis-Pipeline](https://github.com/noecrn/NLP-Sentiment-Analysis-Pipeline) | Sentiment classification with an ensemble of Logistic Regression, Random Forest and SVM |
+
+---
+
+### Technical stack
 
 **Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly_(x86)-404040?style=for-the-badge&logo=intel&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Embedded & Hardware**
+**Embedded**
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![EasyEDA](https://img.shields.io/badge/PCB_Design-EasyEDA-3870e0?style=for-the-badge)
-![Firmware](https://img.shields.io/badge/Firmware-C%2FEmbedded-00599C?style=for-the-badge)
+![PCB Design](https://img.shields.io/badge/PCB_Design-EasyEDA-3870e0?style=for-the-badge)
 
-**Data Science & AI**
+**Data**
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FL-red?style=for-the-badge)
-![CoreML](https://img.shields.io/badge/CoreML-000000?style=for-the-badge&logo=apple&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Tools & Systems**
+**Tools**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ---
 
-### ⏳ Coding Time
-[![wakatime](https://wakatime.com/badge/user/37a8a39b-61a8-424d-8d1e-9e7b1a19b891.svg)](https://wakatime.com/@37a8a39b-61a8-424d-8d1e-9e7b1a19b891)
+📫 The easiest way to reach me is [LinkedIn](https://www.linkedin.com/in/noecrn/).
